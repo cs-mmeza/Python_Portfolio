@@ -2,5 +2,11 @@
 
 Correlating data from the public dataset in Kaggle [Movies](https://www.kaggle.com/danielgrijalvas/movies)
 
-<b>Libraries Used:</b> Pandas, Numpy, matplotlib, and Seaborn
-<b>Skills Used:</b> Data Correlation, Data Cleaning, Python 
+<b>Skills Used:</b>  Data Correlation, Data Cleaning, Python 
+
+<b>Libraries Used:</b> 
+
+* Pandas 
+* Numpy
+* matplotlib
+* Seaborn
