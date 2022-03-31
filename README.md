@@ -11,10 +11,10 @@
 
 <b>Index:</b>
 
-Project 1: Data Correlation
-* Analyzed the correlation between Investment and total income from public data about movies data set containing movie production metadata.
-
-Project 2: Web Scraper
-* Created a Web Scraper to load information from a website to a CSV file.
+**Project 1:** [Data Correlation](/Project_1_Data_Correlation)
+* Analyzed the correlation between Investment and total income from public data containing metadata from various international films.
+  
+**Project 2:** [Web Scraper](/Project_2_WebScraper)
+* Created a "Web Scraper" to load information from a website to a CSV file.
   
  
