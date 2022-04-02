@@ -16,5 +16,8 @@
   
 **Project 2:** [Web Scraper](/Project_2_WebScraper)
 * Created a "Web Scraper" to load information from a website to a CSV file.
+
+**Project 3:** [Youtube API](/Project_3_Youtube_API)
+* Work in progress.
   
  
